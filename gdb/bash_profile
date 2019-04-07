@@ -1,0 +1,12 @@
+#add adb
+export PATH=${PATH}:~/Library/Android/sdk/tools:~/Library/Android/sdk/platform-tools/
+
+#add gdb for android
+export PATH=${PATH}:/Users/liyuzhong/Library/gdb/gdb32/bin/
+export PATH=${PATH}:/Users/liyuzhong/Library/gdb/gdb64/bin/
+
+#add ndk for android
+export PATH=${PATH}:/Users/liyuzhong/Library/android-ndk-r19c/
+
+#add for login ws
+export PATH=${PATH}:/Users/liyuzhong/Library/ws/
